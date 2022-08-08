@@ -121,14 +121,6 @@ a {
     margin-top: 3px;
     letter-spacing: 1px;
 }
-.profile span p {
-    font-family: 'Jost', sans-serif;
-    font-size: 20px;
-    margin-top: 10px;
-    padding: 2px 350px;
-    font-style: italic;
-    font-weight: 300;
-}
 .profile p {
     font-size: 13px;
     margin-top: 10px;
